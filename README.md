@@ -252,17 +252,7 @@ cd Finetuning/training
 python -c "from config import get_config; print('Config loaded successfully')"
 ```
 
-## Performance
 
-CarePilot achieves state-of-the-art performance on medical imaging tasks across multiple software platforms:
-
-- **Weasis**: SWA 90.38-92.50%, TA 40.00-48.76%
-- **3D Slicer**: SWA 82.09-88.90%, TA 54.75-54.80%
-- **Orthanc**: SWA 91.80-93.80%, TA 55.00-56.67%
-- **OpenEMR**: SWA 87.52-90.18%, TA 46.25-56.70%
-- **Average**: SWA 88.05-90.18%, TA 48.90-51.45%
-
-See the results table in `figures/results.png` for detailed comparisons with other models.
 
 
 
