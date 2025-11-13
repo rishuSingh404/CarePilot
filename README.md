@@ -265,6 +265,4 @@ CarePilot achieves state-of-the-art performance on medical imaging tasks across 
 See the results table in `figures/results.png` for detailed comparisons with other models.
 
 
-# CarePilot
-# CarePilot
-# CarePilot
+
