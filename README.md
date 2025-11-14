@@ -252,7 +252,7 @@ cd Finetuning/training
 python -c "from config import get_config; print('Config loaded successfully')"
 ```
 
-
+Thank You
 
 
 
